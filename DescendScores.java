@@ -30,5 +30,6 @@ public class DescendScores {
 			}
 		}
 		System.out.print("降序排序后是："+Arrays.toString(scores));
+		System.out.print("\n完成！");
 	}
 }
